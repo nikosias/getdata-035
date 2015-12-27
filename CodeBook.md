@@ -6,8 +6,8 @@ This is a code book for variables.
 
 ## Information about data source
 
-1 Path1: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-2 Path2: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+1. Path1: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+2. Path2: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ## After script work you get tidyData.txt
 
